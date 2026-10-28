@@ -44,23 +44,23 @@ export default function Home() {
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:type" content="website" />
-        <meta content="○○○❤○○○ 결혼식에 초대합니다" name="Title" />
+        <meta content="임퐁고❤전몽고 결혼식에 초대합니다" name="Title" />
         <meta
-          content="○○○○년 ○○월 ○○일 ○요일 오전 ○○시 ○○분"
+          content="2027년 1월 23일 토요일 오후 4시 20분"
           name="Description"
         />
-        <meta content="○○○○년 ○○월 ○○일 ○요일 오전 ○○시 ○○분" name="Keyword" />
-        <meta property="og:title" content="○○○❤○○○ 결혼식에 초대합니다" />
+        <meta content="2027년 1월 23일 토요일 오후 4시 20분" name="Keyword" />
+        <meta property="og:title" content="임퐁고❤전몽고 결혼식에 초대합니다" />
         <meta
           property="og:description"
-          content="○○○○년 ○○월 ○○일 ○요일 오전 ○○시 ○○분"
+          content="2027년 1월 23일 토요일 오후 4시 20분"
         />
         <meta
           property="og:url"
           content="https://kyuhyuk.kr/wedding-invitation"
         />
         <meta name="theme-color" content="#BCAAA4" />
-        <title>○○○❤○○○ 결혼식에 초대합니다</title>
+        <title>임퐁고❤전몽고 결혼식에 초대합니다</title>
       </Head>
       <main className={`${notoSansKR.className}`}>
         <Script src="https://developers.kakao.com/sdk/js/kakao.min.js"></Script>
