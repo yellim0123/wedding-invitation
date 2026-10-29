@@ -1,6 +1,6 @@
 # Wedding Invitation React.js Template
 
-결혼식 초대를 위한 청첩장 템플릿입니다.  
+결혼식 초대를 위한 청첩장 템플릿입니다.   
 이 저장소가 마음에 들거나 사용하게 되신다면, Star와 Fork 부탁드리겠습니다😉
 
 ## Template Preview
